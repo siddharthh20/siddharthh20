@@ -1,13 +1,13 @@
-# Siddharth Singh&nbsp;<img src="https://c.tenor.com/Trhb6DI_7I0AAAAj/mechanical-legs-researching.gif" width=45px></p>
+# Siddharth Singh&nbsp;<img src="https://media1.giphy.com/media/Ig9phyxs1ePIBSZDKS/giphy.gif" width=145px></p>
 
 <p>
   <em>
-    Experience is the name everyone gives to their mistake<br></em>
+    Grinding never stops<br></em>
  <em style="
     padding-left: 50%;
 ">~ Oscar Wilde</em>
   <div>
-    <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width=80% height=60%>
+    <img src=https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966 width=80% height=60%>
   </div>
   
 
