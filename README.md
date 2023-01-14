@@ -20,13 +20,13 @@
   text-align:center;
   vertical-align:middle;'>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-kmt&theme=dark&hide_langs_below=1" width=45% style="padding-left: 2%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" width=50% style="padding-bottom: 8%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthh20&theme=dark&hide_langs_below=1" width=45% style="padding-left: 2%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthh20&show_icons=true&count_private=true&theme=dark" alt="Siddaharth" width=50% style="padding-bottom: 8%;">
   
   
   
 </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark" width=97% >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthh20&theme=dark" width=97% >
 <div>
   
 </div>
@@ -49,15 +49,15 @@
     <img align="left" alt="Gmail logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
-  <a href="https://www.instagram.com/_.dixit09._/">
+  <a href="https://www.instagram.com/siddharthh__/">
     <img align="left" alt="Instagram Logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   
-  <a href="https://github.com/dixit-kmt">
+  <a href="https://github.com/siddharthh20">
     <img align='left' src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34px">
   </a>
   
-  <a href="https://www.hackerrank.com/dixit_0901/">
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/sidkumarsingh041/">
     <img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="34px">
   </a>
   </p>
